@@ -1,0 +1,187 @@
+Training epoch 1 results:
+Topic 0: file problem really ive program data point available best believe
+Topic 1: really going problem number using file thanks years program help
+Topic 2: file years problem windows using information really believe point going
+Topic 3: file information problem using believe year going years data sure
+Topic 4: years problem ive using available information program believe going year
+Topic 5: file going using really point problem believe better government thanks
+Topic 6: file ive problem information really help using point thanks years
+Topic 7: ive problem really file available using believe things sure point
+Topic 8: file believe problem using information things going really sure program
+Topic 9: file problem really information number believe going things using years
+Training epoch 2 results:
+Topic 0: ive really problem file program believe available data drive things
+Topic 1: really problem number going years help windows thanks using question
+Topic 2: file problem using windows years really information going got help
+Topic 3: information file year windows using problem sure believe going data
+Topic 4: ive years problem going using thanks really believe things available
+Topic 5: file using really problem number going point government believe better
+Topic 6: file information really problem point help believe better years using
+Topic 7: ive problem file really help going using case believe point
+Topic 8: file problem believe information using really going read got sure
+Topic 9: problem information file believe going really years things year number
+Training epoch 3 results:
+Topic 0: ive problem program really using file believe government years available
+Topic 1: really going using number question better thanks data years file
+Topic 2: file problem information thanks using windows believe going point years
+Topic 3: information sure problem windows year file going using program really
+Topic 4: years problem ive going believe using file things question really
+Topic 5: really file using problem going read number point thanks help
+Topic 6: file information believe ive point problem years really help using
+Topic 7: problem file ive point really game help power available believe
+Topic 8: file problem information got believe using read available going ive
+Topic 9: believe information things going file years number year problem thanks
+Training epoch 4 results:
+Topic 0: ive problem program file really using years government information read
+Topic 1: really thanks using windows going years better ive program file
+Topic 2: file windows problem information using going years available thanks help
+Topic 3: information sure windows question file year using problem doesnt data
+Topic 4: problem years believe ive going information using really available car
+Topic 5: problem using file thanks really number going believe government game
+Topic 6: file really problem help point believe information years year ive
+Topic 7: ive problem help really file game things years read going
+Topic 8: problem file got believe information using going software drive available
+Topic 9: believe information things going really file problem year point number
+Training epoch 5 results:
+Topic 0: ive file really problem using years program believe available things
+Topic 1: windows really better using program question drive going thanks years
+Topic 2: file windows doesnt problem years point believe information using really
+Topic 3: information using file problem data sure program windows number question
+Topic 4: years ive believe information going problem using lot things really
+Topic 5: problem thanks file really using going believe number read come
+Topic 6: file really years point problem help information look software believe
+Topic 7: problem ive help really file going case game point read
+Topic 8: file problem got using believe information software going read windows
+Topic 9: believe things information thats going really sure doesnt year data
+Training epoch 6 results:
+Topic 0: ive using really file thing believe help program problem years
+Topic 1: better using windows really years thanks ive program number things
+Topic 2: file windows point information doesnt probably problem going using number
+Topic 3: information problem using sure program question file windows really data
+Topic 4: years believe ive problem really things using going information year
+Topic 5: problem thanks file really using going believe number game read
+Topic 6: file years really help information problem software point look ive
+Topic 7: problem ive case got really file game point things help
+Topic 8: file believe problem got software number information using available read
+Topic 9: information believe going things really sure doesnt years number year
+Training epoch 7 results:
+Topic 0: ive using help file years program problem really believe got
+Topic 1: better really using windows years ive things thanks probably sure
+Topic 2: file windows point information doesnt problem using believe going available
+Topic 3: information using problem windows program sure file government number question
+Topic 4: years problem things really believe going question using year ive
+Topic 5: problem thanks file really using going believe number information read
+Topic 6: file years information help really look software year point better
+Topic 7: ive things problem going really file help got point case
+Topic 8: file believe problem ive got information available going software power
+Topic 9: believe doesnt information thats going things number years file fact
+Training epoch 8 results:
+Topic 0: really help years using ive file program problem card look
+Topic 1: better using windows thanks really years ive probably sure things
+Topic 2: file windows information point doesnt going available ive problem years
+Topic 3: using problem information data windows question government file program sure
+Topic 4: problem years really believe things going better group lot using
+Topic 5: file using problem thanks really going number believe better program
+Topic 6: file years information problem look really help believe doesnt better
+Topic 7: ive things help game got really thanks going problem point
+Topic 8: file problem believe information windows drive using available got software
+Topic 9: believe doesnt information number point going file fact things really
+Training epoch 9 results:
+Topic 0: ive using really help years file believe problem doesnt look
+Topic 1: windows ive better using thanks years sure case probably read
+Topic 2: file windows information available government point believe going space program
+Topic 3: using information windows problem file program data government really sure
+Topic 4: problem really years believe things information going car group better
+Topic 5: file using problem point really believe number going better program
+Topic 6: file years information look point help problem doesnt didnt list
+Topic 7: thanks ive problem things help game really got point going
+Topic 8: file information problem believe thanks using going available software drive
+Topic 9: believe doesnt number file information law thats fact really going
+Training epoch 10 results:
+Topic 0: ive using file believe years really problem help program look
+Topic 1: using better years sure ive windows really thanks file drive
+Topic 2: file windows information available believe government number space point program
+Topic 3: using information program windows file problem data really government available
+Topic 4: years problem really believe year going information group using things
+Topic 5: file point using problem program number going better read believe
+Topic 6: file information years point didnt number data look year list
+Topic 7: thanks ive problem help things really got game going read
+Topic 8: file information believe drive software problem using windows power available
+Topic 9: file number believe information doesnt fact really data law thats
+Training epoch 11 results:
+Topic 0: problem believe file years really using government program key mhz
+Topic 1: using years better little program windows file look government read
+Topic 2: file information number available windows government space image jesus believe
+Topic 3: information file using program data available number government software problem
+Topic 4: years problem believe year really information using available car going
+Topic 5: file point using going program number available space believe really
+Topic 6: file information years data available number year point things didnt
+Topic 7: thanks ive problem really help got things game going windows
+Topic 8: file believe problem information software using power program available drive
+Topic 9: file number law information believe fact case data version doesnt
+Training epoch 12 results:
+Topic 0: file government available years program believe key number information data
+Topic 1: years using government file program better little number look going
+Topic 2: file information available number image government jesus space program windows
+Topic 3: information file using data program government available software number going
+Topic 4: years believe year problem available information public really power space
+Topic 5: file space using available program number point going believe data
+Topic 6: file information years data available software list number didnt gordon
+Topic 7: thanks ive problem really help got things windows drive using
+Topic 8: file believe available information software space problem program image power
+Topic 9: file information number law data version program believe fact going
+Training epoch 13 results:
+Topic 0: file available government program years information data key believe number
+Topic 1: government file years using available program number look little information
+Topic 2: file image information available number jesus government space program windows
+Topic 3: information file using program data image available software government number
+Topic 4: years available information april year group space public believe file
+Topic 5: file space available going number image information program data using
+Topic 6: file information available gordon data years list year subject software
+Topic 7: thanks problem ive really using got help things windows believe
+Topic 8: file information space software available program image armenian believe version
+Topic 9: file number information version irq image program data law available
+Training epoch 14 results:
+Topic 0: file available program government data image number information years key
+Topic 1: file years number government available program using information data look
+Topic 2: file available image information number space jesus turkey government data
+Topic 3: file information program image data available using software government number
+Topic 4: years information available april file space won image lost group
+Topic 5: file space available number image information program data going using
+Topic 6: file information gordon available subject image data list years space
+Topic 7: problem thanks really ive using believe got going things help
+Topic 8: file information available image space software program armenian version general
+Topic 9: file information number irq version image data available program armenians
+Training epoch 15 results:
+Topic 0: file available image pitcher program number information data years government
+Topic 1: file years number available program government data information space look
+Topic 2: file available image information space number data program jesus software
+Topic 3: information file program image available data software using number duo
+Topic 4: available information years april file space image president won cubs
+Topic 5: file available space image number information program armenian data going
+Topic 6: file gordon information available image space data subject skepticism years
+Topic 7: problem really ive thanks using believe going things got help
+Topic 8: file information image available space program software version armenian general
+Topic 9: file irq information number version image program available armenians data
+Training epoch 16 results:
+Topic 0: file available image information program number government data armenian files
+Topic 1: file number available years data program information government phones gear
+Topic 2: file available image information data space number program files jpeg
+Topic 3: file information image program available data software duo using jpeg
+Topic 4: april available information file years image space cubs mph temperature
+Topic 5: file available space image information armenian program number data going
+Topic 6: file gordon information available image skepticism subject shameful intellect data
+Topic 7: problem really ive thanks using believe going things point got
+Topic 8: file information image available version software space program general armenian
+Topic 9: file irq information number version program image armenians available data
+Training epoch 17 results:
+Topic 0: file available image information data program armenian number files years
+Topic 1: file number available program data phones years information gear image
+Topic 2: file available image information space data program number set jpeg
+Topic 3: file information image program available data duo jpeg software using
+Topic 4: information file available april mph cubs image years space president
+Topic 5: file available image armenian information space number program data president
+Topic 6: file gordon available information image shameful intellect subject president space
+Topic 7: problem really ive thanks believe using going things point years
+Topic 8: file information image available version program software space list vram
+Topic 9: file irq information number program image version available armenians president
